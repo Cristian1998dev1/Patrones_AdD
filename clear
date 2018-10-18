@@ -1,0 +1,58 @@
+[33mcommit e639e0b9274299883a0e348cec7d0c782c235242[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3824fde e67620e
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 18:41:23 2018 -0500
+
+    cambio
+
+[33mcommit e67620e90cf157302c8990e6240466faec16c3a5[m[33m ([m[1;32mcambio1[m[33m)[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 18:30:12 2018 -0500
+
+    cambio
+    
+    --insertar--
+    a
+
+[33mcommit 1f32622292d70ffa5c1903f27f314fce9db75a33[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 18:15:13 2018 -0500
+
+    hola
+
+[33mcommit 3824fdef65ec776729092dd4bd8be7a8ff772e3c[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 18:02:52 2018 -0500
+
+    cambios
+
+[33mcommit f09b43379b45b85838810cc65c3451ed36f6c28d[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 17:43:12 2018 -0500
+
+    Diseño de la página de inicio
+
+[33mcommit aafb1cfe066d76b6e645f203682b4aefe285a804[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 193f24c 4acff32
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 17:20:09 2018 -0500
+
+    Arreglos
+
+[33mcommit 193f24c4fca00e7cf12909c3bfffd055d9d25f7f[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Wed Oct 17 16:50:45 2018 -0500
+
+    Diseño de la pagian de inicio
+
+[33mcommit 4acff322e131b90a40e687557b338bcce569af79[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Tue Oct 16 23:55:02 2018 -0500
+
+    Se agrego el estilo a la pagina de inicio
+
+[33mcommit 51628121566976059d12ec4941acd13db0fec9bc[m
+Author: Cristian <Cristianmauriciogutierrez1998@gmail.com>
+Date:   Tue Oct 16 13:43:35 2018 -0500
+
+    Inicio del proyecto y creacion  de mostrar informacion al principio
